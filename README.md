@@ -3,7 +3,7 @@
 <p align="center">
 <a href="http://imgbox.com/RgvVfHEM" target="_blank"><img src="https://3-t.imgbox.com/RgvVfHEM.jpg" alt="image host"/></a>
 </p>
-# Getting Started
+# _Getting Started_
 ##### For a copy of this program, please email me at joanel.vasquez1520@gmail.com explaning why you need the program. Put the name of the program in the subject and GITHUB. 
 # _Prerequesites_
 ##### [Processing](https://processing.org/download/) needs to be used in order to run this program. 
