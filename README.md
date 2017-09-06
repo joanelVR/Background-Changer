@@ -15,4 +15,4 @@
   * Press __"g"__ to change all Green pixels.
   * Press __"b"__ to change all Blue pixels.
 # __Author__
-This program was written by Joanel Vasquez 
+##### This program was written by Joanel Vasquez 
