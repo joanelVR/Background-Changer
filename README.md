@@ -11,6 +11,6 @@
 2. The user must then press "select" in order to get to select the image with the Red/Green/Blue background. 
 3. If "Select" is pressed more tha once, then the user will be able to choose another background image (Pressing "select" will make it possible for the user to keep selecting background and Red/Green/Blue images). 
 4. In order to choose between Red, Green or Blue pixels to look for, the user must choose the following (Green is the default);
-..* Press __"r"__ to change all Red pixels
-..* Press __"g"__ to change all Green pixels
-..* Press __"b"__ to change all Blue pixels
+* Press __"r"__ to change all Red pixels.
+* Press __"g"__ to change all Green pixels.
+* Press __"b"__ to change all Blue pixels.
