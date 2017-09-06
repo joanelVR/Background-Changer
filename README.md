@@ -1,4 +1,4 @@
-# __Background Remover__
+# __Background Changer__
 ##### The purpose of this program is to visit every pixel of an image and get the red, green and blue (RGB) colors. The program will then change the wanted color with a desired background image. The user has the choice of using a green screen, a blue screen or a red screen and swap the background with any desired image.
 <a href="http://imgbox.com/RgvVfHEM" target="_blank"><img src="https://3-t.imgbox.com/RgvVfHEM.jpg" alt="image host"/></a>
 # __Getting Started__
